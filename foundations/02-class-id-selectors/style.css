@@ -1,0 +1,19 @@
+.rose {
+    background-color: rgb(255, 208, 215);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.rose.size { 
+    font-size: 24px;
+}
+
+#uno {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#dos {
+    background-color: hsl(133, 100%, 89%);
+    font-size: 24px;
+    font-weight: bold;
+}
